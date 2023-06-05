@@ -1,8 +1,7 @@
 
-
+  ![dino](https://github.com/ACG-INSA/.github/assets/76821963/e92f38da-569a-47d2-a09f-b8e9ef21346a)
 <div align="center">
-  
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=%20ACG-INSA%20%20&height=200&fontSize=30&animation=fadeIn)
+<!--   ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=%20ACG-INSA%20%20&height=200&fontSize=30&animation=fadeIn) -->
 </div>
 
 
